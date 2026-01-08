@@ -5,4 +5,4 @@ Json file exists here that is ingested publicly by our internal detection script
 
 Useage:
 
-If there is a new approved version that we must adhere to please change the 3 reference files in relation to browsers currently being used
+If there is a new approved version that we must adhere to please change the 3 reference values in the provided json "browser-versions.json" in this repo
